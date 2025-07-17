@@ -1,0 +1,3 @@
+/Users/yusufdemiray/Desktop/Assignment1/cmake-build-debug/CMakeFiles/clearvision.dir
+/Users/yusufdemiray/Desktop/Assignment1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yusufdemiray/Desktop/Assignment1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
